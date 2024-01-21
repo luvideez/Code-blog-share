@@ -1,0 +1,10 @@
+== BlogRank Pro Changelog ==
+
+= 1.0.2 = July 23, 2023
+* Optimized video aspect ratio for single posts
+
+= 1.0.1 = March 03, 2023
+* Updated translation string
+
+= 1.0.0 = August 07, 2021
+* First Release
